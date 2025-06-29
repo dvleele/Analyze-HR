@@ -34,7 +34,7 @@ Công cụ sử dụng:
 
 Dashboard
 
-![Uploading image.png…]()
+![HR_DASHBOARD](https://github.com/user-attachments/assets/7812aefc-47ae-4c9e-85f8-ded9b33d2225)
 
 
 > Xem toàn bộ dashboard trong [HR_Attrition_Analysis.pbix](dashboard/HR_Attrition_Analysis.pbix)
