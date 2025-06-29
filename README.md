@@ -3,7 +3,6 @@ HR Attrition Analysis – IBM Dataset
 Mục tiêu phân tích : Phân tích dữ liệu nhân sự để xác định các yếu tố ảnh hưởng đến nghỉ việc (Attrition), từ đó đưa ra các đề xuất giữ chân nhân viên hiệu quả hơn.
 
 ---
-
 Câu hỏi đặt ra:
 1. Tỷ lệ nghỉ việc toàn công ty là bao nhiêu?
 2. Phòng ban hoặc vai trò nào có tỷ lệ nghỉ cao nhất?
@@ -13,7 +12,14 @@ Câu hỏi đặt ra:
 6. Gợi ý hành động cụ thể cho cấp quản lý?
 
 ---
+Quy trình thực hiện:
+1. Làm sạch dữ liệu và chuyển đổi biến Attrition thành nhị phân 0 và 1 để dễ dàng hơn trong việc xử lý
+2. Phân tích sơ bộ bằng Python: heatmap, boxplot, crosstab
+3. Xác định biến ảnh hưởng chính
+4. Thiết kế dashboard trên Power BI
+5. Gửi khuyến nghị theo insight thực tế
 
+---
 Dữ liệu:
 - Nguồn: IBM HR Analytics Employee Attrition & Performance Dataset
 - Số lượng: 1.470 dòng, 35 cột
@@ -24,7 +30,6 @@ Dữ liệu:
   - Department, JobRole, JobLevel, YearsAtCompany
 
 ---
-
 Công cụ sử dụng:
 - Python (pandas, seaborn, matplotlib) – Xử lý và khám phá dữ liệu ban đầu
 - Power BI – Phân tích và trực quan hóa
@@ -57,4 +62,5 @@ Insight :
 - Cân nhắc tăng lương cơ bản ở nhóm thu nhập thấp vì nhóm này có xu hướng rời bỏ cao hơn 
 - Hỗ trợ giao thông di chuyển hoặc chi phí di chuyển đến nơi làm việc cho các nhân viên nhà ở xa công ty (Phản ánh dữ liệu DistanceFromHome)
 
-
+#powerbi #data-analytics #python
+ 
