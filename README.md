@@ -57,10 +57,10 @@ Insight :
 
 Đề xuất :
 - Tăng đãi ngộ cho nhân viên cấp thấp (Vì đây là nhóm nghỉ nhiều nhất)
-- Rà soát và giảm Tăng. Vì tăng ca ảnh hưởng mạnh đến nghỉ việc
-- Thiết kế lộ trình thăng tiến rõ ràng cho nhân viên trẻ, giúp tăng gắn bó và định hướng lâu dài
-- Cân nhắc tăng lương cơ bản ở nhóm thu nhập thấp vì nhóm này có xu hướng rời bỏ cao hơn 
-- Hỗ trợ giao thông di chuyển hoặc chi phí di chuyển đến nơi làm việc cho các nhân viên nhà ở xa công ty (Phản ánh dữ liệu DistanceFromHome)
+- Rà soát và giảm tăng ca. Vì tăng ca là nguyên nhân cao dẫn đến nghỉ việc
+- Thiết kế lộ trình thăng tiến rõ ràng cho nhân viên trẻ, giúp nhân viên có cái nhìn khách quan và định hướng lâu dài về công việc của mình
+- Xem xét tăng lương cơ bản ở nhóm thu nhập thấp vì nhóm này có xu hướng nghỉ việc cao hơn 
+- Hỗ trợ giao thông hoặc chi phí di chuyển đến nơi làm việc cho các nhân viên nhà ở xa công ty
 
 #powerbi #data-analytics #python
  
